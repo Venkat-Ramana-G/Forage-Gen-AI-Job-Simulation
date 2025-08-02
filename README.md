@@ -59,7 +59,7 @@ This simulation is part of the [**BCG X Forage Program**](https://www.theforage.
    ```
 
 2. Set Up a Virtual Environment: 
-'''bash
+  ```bash
    python -m venv venv
    source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
    pip install -r requirements.txt
