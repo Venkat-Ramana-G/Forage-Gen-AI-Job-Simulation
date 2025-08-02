@@ -1,0 +1,9 @@
+# Force text files to be normalized
+* text=auto
+
+# Force specific line endings by file type (optional)
+*.py text eol=lf
+*.sh text eol=lf
+*.bat text eol=crlf
+*.html text eol=lf
+*.js text eol=lf
