@@ -2,8 +2,8 @@ import streamlit as st
 import pandas as pd
 
 # Load data
-final_report = pd.read_csv('final_data_report.csv')
-summary_report = pd.read_csv('Summary_final_report.csv')
+final_report = pd.read_csv('Forage_BCGX_Gen_AI_Job_Simulation\Task 2_ Developing a AI driven Financial Chatbot Prototype\final_data_report.csv')
+summary_report = pd.read_csv('Forage_BCGX_Gen_AI_Job_Simulation\Task 2_ Developing a AI driven Financial Chatbot Prototype\Summary_final_report.csv')
 
 # App config
 st.set_page_config(page_title="AI Financial Chatbot", page_icon="💹", layout="wide")
@@ -111,3 +111,4 @@ if user_query:
 # Footer
 st.markdown("---")
 st.markdown("Developed by Venkat Ramana Guntupalli © • Powered by Streamlit & Pandas")
+
