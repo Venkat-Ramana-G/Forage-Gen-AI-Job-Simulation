@@ -97,6 +97,6 @@ This repository is provided for educational and professional demonstration purpo
 
 **Venkat Ramana Guntupalli**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-VenkatRamana-blue?logo=linkedin)](https://www.linkedin.com/in/venkat-ramana-guntupalli/)  
-🎓 M.Tech | Passionate about AI, NLP, and Data-driven solutions
+🎓 M.Tech | Passionate about AI,ML,DL,Gen-AI, NLP, and Data-driven solutions
 
 ---
