@@ -5,9 +5,6 @@
 <img src="https://github.com/ADVAIT135/Forage_BCGX_Gen_AI_Virtual_Job_Simulation-/blob/f8817969c667dddc33502a889a1095ce936d1750/BCG_MONOGRAM_RGB_GREEN.png?raw=true" height = 100px  alt="CommonWealth BCG">
 </div>
 
-# Forage_BCGX_Gen_AI_Virtual_Job_Simulation-
-This Repository consists of all the Jupyter Notebook (.ipynb) files, python files, excel sheets which are a part of the BCGX's Gen AI Virtual Job Simulation that is hosted on Forage.
-
 > 🎯 **Project Objective**:  
 > Simulate a real-world Gen AI use case, aligned with business needs, by leveraging the power of generative AI technologies to provide insights and solutions through prompt engineering, data analysis, and chatbot building.
 
